@@ -1,0 +1,1 @@
+Very basic node TypeScript project with modern tsconfig.json setup.
